@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# OS/Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Build / artifacts
+build/
+dist/
+*.egg-info/
+
+
+# Secrets (if any)
+*.env
